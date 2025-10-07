@@ -11,6 +11,7 @@ The goal is to predict problematic internet usage among adolescents based on a v
 The notebook focuses on data harmonization, exploratory data analysis (EDA), feature engineering, and the construction of an ensemble model to improve predictive performance through blending.
 
 ⚙️ Project Workflow
+
 1️⃣ Data Harmonization
 
 Combined multiple datasets with different structures.
